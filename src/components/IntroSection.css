@@ -1,0 +1,30 @@
+.intro-section {
+    font-family: Arial, sans-serif; /* Use Arial or sans-serif font */
+    line-height: 1.6; /* Set line height for better readability */
+  }
+  
+  .heading {
+    font-size: 2.5rem; /* Set font size for heading */
+    font-weight: bold; /* Make heading bold */
+  }
+  
+  .subtitle {
+    font-size: 1.1rem; /* Set font size for subtitle */
+  }
+  
+  .stockgro {
+    font-weight: bold; /* Make Stockgro text bold */
+  }
+  
+  h3 {
+    font-size: 1.2rem; /* Set font size for features heading */
+  }
+  
+  ul {
+    list-style-type: square; /* Use square bullets for list items */
+  }
+  
+  p {
+    font-size: 1rem; /* Set font size for paragraph */
+  }
+  
